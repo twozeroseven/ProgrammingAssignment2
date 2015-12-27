@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Create 4 internal function set,get,setMatrix,getMatrix - return this object of functions as a list
 
 makeCacheMatrix <- function(x = matrix()) {
   set<-function(y){
